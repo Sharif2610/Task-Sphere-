@@ -1,0 +1,22 @@
+🗂️ Task Management System
+
+A full-stack Task Management web application built using Python, Django, React.js, and MySQL.  
+This application helps users manage tasks efficiently with authentication and status tracking.
+
+🚀 Features
+
+- User authentication using JWT
+- Create, update, delete tasks
+- Task status tracking (To Do, In Progress, Completed)
+- Role-based access control
+- RESTful APIs using Django REST Framework
+- Responsive UI using React.js
+- MySQL database integration
+
+ 🛠️ Tech Stack
+
+*Frontend:** React.js, HTML5, CSS3  
+*Backend:** Python, Django, Django REST Framework  
+*Database:** MySQL  
+*Authentication:** JWT  
+*Tools:** Git, GitHub, Postman, VS Code  
